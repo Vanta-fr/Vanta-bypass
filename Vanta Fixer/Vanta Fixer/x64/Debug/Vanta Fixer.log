@@ -1,0 +1,5 @@
+﻿  Driver.cpp
+  NameSpoofer.cpp
+C:\Users\timot\OneDrive\Desktop\Wukey's cleaner\Vanta Fixer\Vanta Fixer\NameSpoofer.cpp(70,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Vanta Fixer.vcxproj -> C:\Users\timot\OneDrive\Desktop\Wukey's cleaner\Vanta Fixer\x64\Debug\Vanta Fixer.exe
